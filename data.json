@@ -1,0 +1,67 @@
+{
+    "Characters":{
+        "karaktär1":{
+            "Happy": "bild",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        },
+        "karaktär2":{
+            "Happy": "bild",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        },
+        "karaktär3":{
+            "Happy": "bild",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        },
+        "karaktär4":{
+            "Happy": "bild",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        },
+        "karaktär5":{
+            "Happy": "bild",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        },
+        "karaktärN":{
+            "Happy": "wojak.png",
+            "Thinking": "bild",
+            "generad": "bild",
+            "arg": "bild"
+
+        }
+    },
+
+"Scene1":{
+        "Background":"https://ednia.se/_next/image?url=https%3A%2F%2Fcdn2.ednia.se%2Fimage-uploads%2Fprod%2F3ce4c2d5-4d90-4ee3-b9de-fe7d0e44c2ca&w=3840&q=75",
+        "PAGES":{
+            "Page0":{
+                "Character": "karaktärN",
+                "Sprite": "Happy",
+                "PageText": "textetxtettttttt"
+
+            },
+            "Page1":{
+                "Character": "karaktärN",
+                "Sprite": "Happy",
+                "PageText": "textetxtettttttt",
+                "Options":
+                {
+                    "Första val": "Page0",
+                    "Andra val": "Scene2"
+                }
+        }
+        
+    }
